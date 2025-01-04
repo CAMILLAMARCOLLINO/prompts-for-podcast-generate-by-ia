@@ -76,7 +76,9 @@ O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que est
 - Não utilize a palavra finanças
 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no Leonardo.AI
+
+Crie uma imagem para um podcast com o seguinte título: "A Vida Sem Cadeado: Abrindo portas para o futuro financeiro sem segredos". Imagem com conteúdo jovem e descontraído no formato 5.2.
 
 ## 👨‍💻 Expert
 
