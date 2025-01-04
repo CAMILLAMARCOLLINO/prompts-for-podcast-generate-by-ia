@@ -56,44 +56,23 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
-## 🛠️ Instruções de execução
+## 🛠️ Execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+- 🤖 1. Prompts de roteiro no `chagpt`:
+Você é um roteirista de podcast, e vamos criar um podcast de finanças pessoais focado em educação financeira para criar 5 sugestões de nomes criativos para um podcast de finanças pessoais feito por especialistas da area, e que tenha uma linguagem simples, jovem e acessível. 
+O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que está acontecendo no mercado financeiro
+{REGRAS} 
+- O nome deve ser enxuto, um nome e um subtítulo 
+- O nome tenha algum trocadilho jovem e descontraído, podendo ser até um meme 
+- O nome deve conter alguma palavra forte que remeta a liberdade  
+{REGRAS NEGATIVAS} 
+- Não quero que o título contenha palavras em inglês 
+- Não quero que utilize nenhuma das palavras nessa lista: rico, milionário, grana, dinheiro
+- Não utilize a palavra finanças
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Camilla Marcollino]
