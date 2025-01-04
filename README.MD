@@ -59,6 +59,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 🛠️ Execução
 
 - 🤖 1. Prompts de roteiro no `chagpt`:
+
 Você é um roteirista de podcast, e vamos criar um podcast de finanças pessoais focado em educação financeira para criar 5 sugestões de nomes criativos para um podcast de finanças pessoais feito por especialistas da area, e que tenha uma linguagem simples, jovem e acessível. 
 O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que está acontecendo no mercado financeiro
 
