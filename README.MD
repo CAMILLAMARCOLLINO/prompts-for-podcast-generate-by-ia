@@ -58,7 +58,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Execução
 
-- 🤖 1. Prompts de roteiro no `chagpt`:
+- 🤖 1. Prompt de roteiro no `chagpt`:
 
 Você é um roteirista de podcast, e vamos criar um podcast de finanças pessoais focado em educação financeira para criar 5 sugestões de nomes criativos para um podcast de finanças pessoais feito por especialistas da area, e que tenha uma linguagem simples, jovem e acessível. 
 O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que está acontecendo no mercado financeiro
@@ -76,7 +76,7 @@ O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que est
 - Não utilize a palavra finanças
 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no Leonardo.AI
+- 🤖 3. Prompt de arte no Leonardo.AI
 
 Crie uma imagem para um podcast com o seguinte título: "A Vida Sem Cadeado: Abrindo portas para o futuro financeiro sem segredos". Imagem com conteúdo jovem e descontraído no formato 5.2.
 
