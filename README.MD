@@ -80,16 +80,27 @@ O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que est
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de finanças pessoais, focado em educação financeira cujo o nome é " A Vida Sem Cadeado: Abrindo portas para o futuro financeiro sem segredos" e tem foco em jovens como público alvo.
 
 O formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
+
 {REGRAS}
+
 •	no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Me Poupe', como se fossem escritos por Gustavo Cerbasi
+
 •	no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Independência Financeira 
+
 •	no bloco [CURIOSIDADE 2] sobre uma ferramenta para controle de gastos e despesas
+
 •	no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Camilla e esse foi o episódio: Vida Sem Cadeado dessa semana'
+
 •	use termos de fácil explicação
+
 •	O podcast vai ser apresentado somente por uma pessoa, chamada Camilla
+
 •	O podcast deve ser curto
+
 {REGRAS NEGATIVAS}
+
 •	Não use muitos termos técnicos
+
 •	Não ultrapasse 5 minutos de duração
 
 - 🤖 3. Prompt de arte no Leonardo.AI
