@@ -38,7 +38,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [MidJourney](https://app.leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -58,7 +58,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Execução
 
-- 🤖 1. Prompt de roteiro no `chagpt`:
+- 🤖 1. Prompt de título no `chagpt`:
 
 Você é um roteirista de podcast, e vamos criar um podcast de finanças pessoais focado em educação financeira para criar 5 sugestões de nomes criativos para um podcast de finanças pessoais feito por especialistas da area, e que tenha uma linguagem simples, jovem e acessível. 
 O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que está acontecendo no mercado financeiro
@@ -76,6 +76,22 @@ O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que est
 - Não utilize a palavra finanças
 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de finanças pessoais, focado em educação financeira cujo o nome é " A Vida Sem Cadeado: Abrindo portas para o futuro financeiro sem segredos" e tem foco em jovens como público alvo.
+
+O formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
+{REGRAS}
+•	no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Me Poupe', como se fossem escritos por Gustavo Cerbasi
+•	no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Independência Financeira 
+•	no bloco [CURIOSIDADE 2] sobre uma ferramenta para controle de gastos e despesas
+•	no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Camilla e esse foi o episódio: Vida Sem Cadeado dessa semana'
+•	use termos de fácil explicação
+•	O podcast vai ser apresentado somente por uma pessoa, chamada Camilla
+•	O podcast deve ser curto
+{REGRAS NEGATIVAS}
+•	Não use muitos termos técnicos
+•	Não ultrapasse 5 minutos de duração
+
 - 🤖 3. Prompt de arte no Leonardo.AI
 
 Crie uma imagem para um podcast com o seguinte título: "A Vida Sem Cadeado: Abrindo portas para o futuro financeiro sem segredos". Imagem com conteúdo jovem e descontraído no formato 5.2.
