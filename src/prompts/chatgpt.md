@@ -1,6 +1,5 @@
 ## 🧠 Prompts
 
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
