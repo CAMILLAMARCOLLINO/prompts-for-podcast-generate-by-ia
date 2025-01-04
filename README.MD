@@ -61,11 +61,15 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - 🤖 1. Prompts de roteiro no `chagpt`:
 Você é um roteirista de podcast, e vamos criar um podcast de finanças pessoais focado em educação financeira para criar 5 sugestões de nomes criativos para um podcast de finanças pessoais feito por especialistas da area, e que tenha uma linguagem simples, jovem e acessível. 
 O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que está acontecendo no mercado financeiro
+
 {REGRAS} 
+
 - O nome deve ser enxuto, um nome e um subtítulo 
 - O nome tenha algum trocadilho jovem e descontraído, podendo ser até um meme 
 - O nome deve conter alguma palavra forte que remeta a liberdade  
-{REGRAS NEGATIVAS} 
+
+{REGRAS NEGATIVAS}
+
 - Não quero que o título contenha palavras em inglês 
 - Não quero que utilize nenhuma das palavras nessa lista: rico, milionário, grana, dinheiro
 - Não utilize a palavra finanças
