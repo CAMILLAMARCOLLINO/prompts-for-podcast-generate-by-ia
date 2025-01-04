@@ -75,7 +75,7 @@ O podcast vai falar sobre dicas e novidades sobre finanças pessoais e o que est
 - Não quero que utilize nenhuma das palavras nessa lista: rico, milionário, grana, dinheiro
 - Não utilize a palavra finanças
 
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 2. Prompt de roteiro gerado pelo chatgpt no  `ElevenLabs`
 
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de finanças pessoais, focado em educação financeira cujo o nome é " A Vida Sem Cadeado: Abrindo portas para o futuro financeiro sem segredos" e tem foco em jovens como público alvo.
 
